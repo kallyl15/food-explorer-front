@@ -39,7 +39,7 @@ Para embarcar nesta jornada culinária espacial, siga os seguintes passos:
 Agora, seu foguete está pronto para decolar! Acesse http://localhost:3000 e explore o universo de sabores!
 
 ## 🌟 Acesse o projeto por aqui:
-
+https://foodexplorerkallyl.netlify.app/
 🔑 admin: admin@gmail.com - 123456
 
 ## 🪐 Contribuições
