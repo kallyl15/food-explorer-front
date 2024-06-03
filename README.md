@@ -1,4 +1,4 @@
-
+![image](https://github.com/kallyl15/food-explorer-front/assets/48924767/c7ec022b-8e18-4fb4-ba79-adeaf2d5df60)
 
 Bem-vindo ao Food Explorer, a plataforma definitiva que o levará a uma jornada cósmica através de pratos deliciosos! Nós o convidamos a explorar o universo de sabores que nosso planeta tem a oferecer, enquanto você navega com a facilidade de um foguete por nossa plataforma.
 
