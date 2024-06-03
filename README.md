@@ -26,7 +26,7 @@ Para embarcar nesta jornada culinária espacial, siga os seguintes passos:
 1. Clone o repositório.
    
    ```bash
-   git clone 
+   git clone https://github.com/kallyl15/food-explorer-front.git
    
 2. Instale as dependências.
     ```bash
